@@ -5,3 +5,5 @@
 - Backend api emulates with localStorage
 
 _To add markers to map you should add your 'geocode' api key to get-address.ts_
+
+Demo available on: https://places-map.netlify.app
